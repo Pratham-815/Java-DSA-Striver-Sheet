@@ -4,7 +4,6 @@ package Arrays.Easy;
 
 public class Problem3 {
     public boolean check(int[] arr){
-        boolean result = false;
         int x = 0;
         while(x <= arr.length){
             if(arraySorted(arr)) return true;
