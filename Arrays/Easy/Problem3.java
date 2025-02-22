@@ -1,5 +1,7 @@
 package Arrays.Easy;
 
+// Solution to check if an array can be sorted by rotation
+
 public class Problem3 {
     public boolean check(int[] arr){
         boolean result = false;

@@ -1,5 +1,7 @@
 package Arrays.Easy;
 
+// Find second largest element in an array
+
 public class Problem2 {
     class Solution {
         public int getSecondLargest(int[] arr) {
