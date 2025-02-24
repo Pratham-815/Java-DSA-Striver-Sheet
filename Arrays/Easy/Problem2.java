@@ -1,4 +1,3 @@
-package Arrays.Easy;
 
 // Problem: Find the second largest element in an array
 // Time Complexity: O(n), where n is the length of the array

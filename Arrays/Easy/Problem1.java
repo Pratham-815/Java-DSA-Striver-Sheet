@@ -1,4 +1,3 @@
-package Arrays.Easy;
 
 // Find largest element in an array
 

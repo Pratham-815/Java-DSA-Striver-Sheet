@@ -1,5 +1,3 @@
-package Arrays.Easy;
-
 /**
  * Problem: Check if an array can be sorted by rotating it
  * Time Complexity: O(n^2), where n is the length of the array

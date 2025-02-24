@@ -1,4 +1,3 @@
-package Arrays.Easy;
 
 // Solution to move all zeroes to the end of Array
 
