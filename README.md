@@ -1,1 +1,1 @@
-# Java-DSA-Striver-Sheet
+# This repository not only contains solutions to Striver's DSA sheet but also features other important questions from LeetCode and various coding platforms. If you spot any errors in the code, feel free to open a pull request with a brief description of the fixes.
