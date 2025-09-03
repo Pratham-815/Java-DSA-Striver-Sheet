@@ -5,7 +5,7 @@ package Basics;
  * Time Complexity: O(log n), where n is the input number (number of digits)
  * Space Complexity: O(1), using only constant extra space
  */
-public class Reverse_Number {
+public class LeetCode_7 {
     /**
      * Reverses the digits of an integer, handling negative numbers and overflow
      * @param x The input integer to reverse
