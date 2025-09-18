@@ -18,7 +18,6 @@
  * - In worst case (skewed tree): O(n) due to recursion stack
  * - In best case (balanced tree): O(log n) due to recursion stack
  * 
- * @author GitHub Copilot
  */
 public class Leetcode_104{
     public int maxDepth(TreeNode root) {
